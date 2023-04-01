@@ -1,2 +1,2 @@
 # Pokemon
-Download pokemon pictures
+Download pokemon pictures (also includes a progress bar)
